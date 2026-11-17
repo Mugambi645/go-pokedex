@@ -1,0 +1,11 @@
+# Go build output
+/go-pokedex
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go test and coverage output
+*.test
+*.out
